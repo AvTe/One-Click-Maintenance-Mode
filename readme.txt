@@ -119,5 +119,5 @@ Please check the [issues page](../../issues) for open tickets.
 
 ## Author
 
-Developed by **Your Name**  
+Developed by *Amit Vishwakarma*  
 Website: [https://theaetos.com/](https://theaetos.com/)
