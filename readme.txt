@@ -1,4 +1,4 @@
-#One-Click Maintenance Mode
+# One-Click Maintenance Mode
 
 A simple yet powerful WordPress plugin that lets you enable a professional maintenance mode page with a single click. Includes customizable content, responsive design, countdown timer, and SEO-friendly headers.
 
