@@ -1,6 +1,13 @@
 # One-Click Maintenance Mode
 
-A simple yet powerful WordPress plugin that lets you enable a professional maintenance mode page with a single click. Includes customizable content, responsive design, countdown timer, and SEO-friendly headers.
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![WordPress Tested Up To](https://img.shields.io/badge/WordPress-6.4-brightgreen.svg)](https://wordpress.org/plugins/)
+[![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://www.php.net/)
+
+A simple yet powerful WordPress plugin that lets you enable a professional maintenance mode page with a single click.  
+Includes customizable content, responsive design, countdown timer, and SEO-friendly headers.
+
+**Website:** [https://theaetos.com/](https://theaetos.com/)
 
 ---
 
@@ -18,19 +25,19 @@ A simple yet powerful WordPress plugin that lets you enable a professional maint
 
 ## Customization Options
 
-**Content**
+### Content
 - Custom title and description text
 - Footer with contact information
 - Logo upload support
 
-**Design**
+### Design
 - Multiple Google Fonts: DM Sans, Inter, Roboto, Open Sans, Lato, Poppins
-- Font size options (Small, Medium, Large)
+- Font size options: Small, Medium, Large
 - Background color picker or custom background image
 - Custom CSS for advanced styling
 
-**Countdown Timer**
-- Enable or disable
+### Countdown Timer
+- Enable or disable countdown
 - Set a specific end date and time
 - Automatic completion message after expiry
 
@@ -46,7 +53,7 @@ A simple yet powerful WordPress plugin that lets you enable a professional maint
 ### Manual Installation
 1. Download the ZIP file from this repository or the releases page.
 2. In WordPress admin, go to **Plugins > Add New > Upload Plugin**.
-3. Choose the ZIP file, click **Install Now**, then **Activate**.
+3. Upload the ZIP file, click **Install Now**, then **Activate**.
 
 ---
 
@@ -106,11 +113,11 @@ This project is licensed under the [GPLv2 or later](https://www.gnu.org/licenses
 ## Contributing
 
 Contributions, issues, and feature requests are welcome.  
-Feel free to check the [issues page](../../issues).
+Please check the [issues page](../../issues) for open tickets.
 
 ---
 
 ## Author
 
-Developed by **Amit Vishwakarma**  
-Website: [www.theaetos.com]
+Developed by **Your Name**  
+Website: [https://theaetos.com/](https://theaetos.com/)
